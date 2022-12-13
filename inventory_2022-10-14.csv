@@ -1,0 +1,10 @@
+product_name,buy_price,expiration_date,count
+apple,0.12,2023-01-01,5
+beer,0.75,2022-12-31,30
+bubblegum,0.1,2023-12-01,14
+cheese,7.0,2023-09-23,3
+coffee,0.89,2023-10-23,31
+cookie,0.25,2022-12-13,1
+egg,0.05,2022-10-23,24
+milk,1.0,2022-11-01,45
+tomato,1.2,2022-11-30,26

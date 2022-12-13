@@ -1,0 +1,163 @@
+bought_id,product_name,buy_date,buy_price,expiration_date,sold_id,sell_date,sell_price,status
+409,bread,2022-09-07,1.0,2022-09-14,198.0,2022-09-11,1.8,sold
+310,bread,2022-09-01,1.0,2022-09-14,179.0,2022-09-11,1.8,sold
+309,bread,2022-09-01,1.0,2022-09-14,178.0,2022-09-11,1.8,sold
+391,bread,2022-09-07,1.0,2022-09-14,180.0,2022-09-11,1.8,sold
+392,bread,2022-09-07,1.0,2022-09-14,181.0,2022-09-11,1.8,sold
+394,bread,2022-09-07,1.0,2022-09-14,183.0,2022-09-11,1.8,sold
+395,bread,2022-09-07,1.0,2022-09-14,184.0,2022-09-11,1.8,sold
+396,bread,2022-09-07,1.0,2022-09-14,185.0,2022-09-11,1.8,sold
+397,bread,2022-09-07,1.0,2022-09-14,186.0,2022-09-11,1.8,sold
+398,bread,2022-09-07,1.0,2022-09-14,187.0,2022-09-11,1.8,sold
+393,bread,2022-09-07,1.0,2022-09-14,182.0,2022-09-11,1.8,sold
+400,bread,2022-09-07,1.0,2022-09-14,189.0,2022-09-11,1.8,sold
+401,bread,2022-09-07,1.0,2022-09-14,190.0,2022-09-11,1.8,sold
+402,bread,2022-09-07,1.0,2022-09-14,191.0,2022-09-11,1.8,sold
+403,bread,2022-09-07,1.0,2022-09-14,192.0,2022-09-11,1.8,sold
+404,bread,2022-09-07,1.0,2022-09-14,193.0,2022-09-11,1.8,sold
+405,bread,2022-09-07,1.0,2022-09-14,194.0,2022-09-11,1.8,sold
+406,bread,2022-09-07,1.0,2022-09-14,195.0,2022-09-11,1.8,sold
+399,bread,2022-09-07,1.0,2022-09-14,188.0,2022-09-11,1.8,sold
+408,bread,2022-09-07,1.0,2022-09-14,197.0,2022-09-11,1.8,sold
+407,bread,2022-09-07,1.0,2022-09-14,196.0,2022-09-11,1.8,sold
+339,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+340,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+341,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+342,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+346,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+344,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+345,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+347,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+348,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+338,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+343,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+337,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+278,milk,2022-09-01,1.1,2022-09-14,,,,in inventory
+335,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+334,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+333,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+332,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+331,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+280,milk,2022-09-01,1.1,2022-09-14,,,,in inventory
+279,milk,2022-09-01,1.1,2022-09-14,,,,in inventory
+349,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+277,milk,2022-09-01,1.1,2022-09-14,,,,in inventory
+276,milk,2022-09-01,1.1,2022-09-14,,,,in inventory
+275,milk,2022-09-01,1.1,2022-09-14,,,,in inventory
+274,milk,2022-09-01,1.1,2022-09-14,,,,in inventory
+336,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+350,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+180,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+352,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+380,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+379,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+378,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+377,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+376,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+375,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+374,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+373,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+372,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+371,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+370,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+369,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+368,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+351,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+367,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+365,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+364,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+363,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+362,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+361,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+273,milk,2022-09-01,1.1,2022-09-14,,,,in inventory
+359,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+358,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+357,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+356,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+355,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+354,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+353,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+366,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+360,coffee,2022-09-01,2.0,2023-09-14,,,,in inventory
+272,milk,2022-09-01,1.1,2022-09-14,,,,in inventory
+270,milk,2022-09-01,1.1,2022-09-14,,,,in inventory
+201,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+202,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+203,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+204,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+205,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+206,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+207,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+200,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+208,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+210,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+211,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+212,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+213,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+214,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+215,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+216,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+209,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+217,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+199,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+197,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+181,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+182,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+183,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+184,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+185,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+186,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+187,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+198,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+188,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+190,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+191,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+192,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+193,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+194,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+195,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+196,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+189,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+218,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+219,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+220,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+242,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+243,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+244,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+245,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+246,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+247,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+248,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+241,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+249,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+263,milk,2022-09-01,1.1,2022-09-14,,,,in inventory
+264,milk,2022-09-01,1.1,2022-09-14,,,,in inventory
+265,milk,2022-09-01,1.1,2022-09-14,,,,in inventory
+266,milk,2022-09-01,1.1,2022-09-14,,,,in inventory
+267,milk,2022-09-01,1.1,2022-09-14,,,,in inventory
+268,milk,2022-09-01,1.1,2022-09-14,,,,in inventory
+269,milk,2022-09-01,1.1,2022-09-14,,,,in inventory
+250,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+240,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+239,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+238,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+221,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+222,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+223,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+224,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+225,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+226,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+227,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+228,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+229,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+230,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+231,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+232,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+233,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+234,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+235,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+236,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+237,cookie,2022-09-01,0.5,2022-10-01,,,,in inventory
+271,milk,2022-09-01,1.1,2022-09-14,,,,in inventory
+410,bread,2022-09-07,1.0,2022-09-14,,,,in inventory
+total,,,177.3,,,,37.8,
